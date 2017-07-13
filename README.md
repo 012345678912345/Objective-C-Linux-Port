@@ -7,8 +7,7 @@ Install all necessary packages with: `sudo apt-get install build-essential gobjc
 
 Make the build script executable with `chmod +x objcbuild.sh`
 
-You may need to execute this before anything will work: `. /usr/share/GNUstep/\
-Makefiles/GNUstep.sh`
+You may need to execute this before anything will work: `. /usr/share/GNUstep/Makefiles/GNUstep.sh`
 
 Build a program with: `./objcbuild.sh <filename.m>`
 
