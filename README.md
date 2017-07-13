@@ -1,7 +1,7 @@
 # Objective-C-Linux-Port
 Compile Objective-C in Linux
 
-The Objective-C language and development environment is naturally on the Mac OS X operating system, but that doesn't mean that you can't do Objective-C development on Linux. The following has been done on a Debian 9 machine.
+The Objective-C language and development environment is naturally on the Mac OS X operating system, but that doesn't mean that you can't do Objective-C development on Linux. The following has been done on a Debian 8 machine.
 
 Install all necessary packages with: `sudo apt-get install build-essential gobjc gobjc++ gnustep gnustep-devel libgnustep-base-dev -y`
 
